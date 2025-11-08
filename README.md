@@ -94,4 +94,5 @@ Relationships were built logically between categorical dimensions and sales data
 | 🧱 **Data Modeling** | Relationship Building (Star Schema) |
 | 💬 **Business Insights Communication** | Interpreting & Presenting Results |
 
+## Screenshot
 
