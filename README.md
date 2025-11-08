@@ -1,6 +1,10 @@
 # 🛒 Amazon Sales Analysis Dashboard
 
 
+## 📊 Dashboard Preview
+
+![Amazon Sales Dashboard Preview](images/dashboard_preview.png)
+
 ## 📌 Project Objective
 The main objective of this project is to analyze **Amazon sales performance** to gain insights into:
 
