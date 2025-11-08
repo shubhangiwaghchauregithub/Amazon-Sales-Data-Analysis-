@@ -95,4 +95,4 @@ Relationships were built logically between categorical dimensions and sales data
 | 💬 **Business Insights Communication** | Interpreting & Presenting Results |
 
 ## Screenshot
-
+https://github.com/shubhangiwaghchauregithub/Amazon-Sales-Data-Analysis-/blob/main/Dashboard.png
