@@ -3,7 +3,9 @@
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](https://raw.githubusercontent.com/shubhangiwaghchauregithub/Amazon-Sales-Data-Analysis-/main/Dashboard_1.png)
+![Dashboard Preview](https://raw.githubusercontent.com/shubhangiwaghchauregithub/Amazon-Sales-Data-Analysis-/main/Dashboard.png)
+
+
 
 ## 📌 Project Objective
 The main objective of this project is to analyze **Amazon sales performance** to gain insights into:
